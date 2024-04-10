@@ -1,0 +1,14 @@
+
+
+body{
+    background-color: darkslategrey;
+    
+}
+
+body h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 2px;
+    padding: 10px;
+    display: flex;
+}
+
